@@ -1,7 +1,10 @@
 // promene na hybani
 let interval = 20
 
-
+//promene na radio
+radio.setGroup(1)
+radio.setTransmitPower(7)
+radio.setFrequencyBand(0)
 
 //promene
 let xmod = 0
